@@ -18,3 +18,7 @@ O sistema simula operações basicas de uma conta bacaria através de um menu in
 2. Clone este repositório.
 3. Abra a pasta do projeto no VS Code ou outro editor.
 4. Execute o arquivo principal pelo terminal.
+# Autor 
+Vinícius Rodrigues - Estudante de Engenharia de Software - UDF Centro Universitário
+# Licença
+Projeto acadêmico, de uso educacional.
